@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<GridPane fx:controller="com.jeffwest.fx.controller.FileSetManagerController"
+          xmlns:fx="http://javafx.com/fxml"
+          alignment="center"
+          hgap="10"
+          vgap="10">
+  <padding>
+    <Insets top="25"
+            right="25"
+            bottom="10"
+            left="25"/>
+  </padding>
+
+  <VBox id="detectionStrategyVBox"
+        spacing="10"
+        GridPane.columnIndex="0"
+        GridPane.rowIndex="0"
+        GridPane.columnSpan="1">
+    <Text text="Select Detection Strategies:"/>
+    <CheckBox text="File Date Prefix"
+              selected="true"
+              fx:id="chkFileDatePrefix"
+              onAction="#processSelect"/>
+    <CheckBox text="JPEG Image Data"
+              fx:id="chkJPEGImageData"/>
+    <CheckBox text="JPEG Created Date"
+              fx:id="JPEGCreatedDate"/>
+  </VBox>
+
+</GridPane>

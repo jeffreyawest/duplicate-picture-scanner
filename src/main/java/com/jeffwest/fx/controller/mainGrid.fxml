@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.io.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.*?>
+<?import javafx.stage.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Scene width="300"
+       height="550"
+       fx:controller="com.jeffwest.fx.controller.MainSceneController"
+       xmlns:fx="http://javafx.com/fxml">
+
+  <GridPane id="GridPane"
+            alignment="center"
+            hgap="10"
+            vgap="10">
+    <padding>
+      <Insets top="25"
+              right="25"
+              bottom="10"
+              left="25"/>
+    </padding>
+
+    <VBox id="detectionStrategyVBox"
+          spacing="10"
+          GridPane.columnIndex="0"
+          GridPane.rowIndex="0"
+          GridPane.columnSpan="1">
+
+      <Text text="Select Detection Strategies:"/>
+
+      <CheckBox text="File Date Prefix"
+                selected="true"
+                fx:id="chkFileDatePrefix"
+                onAction="#processSelect"/>
+
+      <CheckBox text="JPEG Image Data"
+                fx:id="chkJPEGImageData"
+                onAction="#processSelect"/>
+
+      <CheckBox text="JPEG Created Date"
+                fx:id="chkJPEGCreatedDate"
+                onAction="#processSelect"/>
+    </VBox>
+
+    <VBox GridPane.columnIndex="0"
+          GridPane.rowIndex="1"
+          GridPane.columnSpan="1">
+
+      <Label text="Directory: "/>
+      <Text fx:id="directoryName"/>
+    </VBox>
+
+    <Button id="btnChooseDir"
+            text="Choose Directory"
+            onAction="#clickChooseDir"
+
+            GridPane.columnIndex="0"
+            GridPane.rowIndex="2"
+            GridPane.columnSpan="1"/>
+
+    <Button id="btnPerformScan"
+            text="Perform Scan"
+            onAction="#clickPerformScan"
+
+            GridPane.columnIndex="0"
+            GridPane.rowIndex="3"
+            GridPane.columnSpan="1"/>
+  </GridPane>
+
+
+</Scene>
