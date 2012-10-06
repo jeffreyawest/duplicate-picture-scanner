@@ -1,0 +1,137 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <!-- ==================================================================================== -->
+
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.jeffwest.sandbox</groupId>
+  <artifactId>duplicate-picture-scanner</artifactId>
+  <packaging>jar</packaging>
+  <version>3.0</version>
+  <name>duplicate-picture-scanner</name>
+
+  <!-- ==================================================================================== -->
+
+  <properties>
+    <com.fasterxml.jackson.version>2.0.5</com.fasterxml.jackson.version>
+    <JAVA7_HOME>/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home</JAVA7_HOME>
+  </properties>
+
+  <!-- ==================================================================================== -->
+
+  <build>
+    <defaultGoal>install</defaultGoal>
+
+    <plugins>
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>2.5.1</version>
+        <configuration>
+          <source>1.7</source>
+          <target>1.7</target>
+        </configuration>
+      </plugin>
+
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>2.4</version>
+      </plugin>
+
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>exec-maven-plugin</artifactId>
+
+        <configuration>
+          <mainClass>com.jeffwest.fx.DuplicateScannerFX</mainClass>
+          <classpathScope>compile</classpathScope>
+        </configuration>
+
+      </plugin>
+
+    </plugins>
+  </build>
+
+  <!-- ==================================================================================== -->
+
+  <dependencies>
+
+    <dependency>
+      <groupId>org.apache.sanselan</groupId>
+      <artifactId>sanselan</artifactId>
+      <version>0.97-incubator</version>
+    </dependency>
+
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+      <version>2.4</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-annotations</artifactId>
+      <version>${com.fasterxml.jackson.version}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-core</artifactId>
+      <version>${com.fasterxml.jackson.version}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.fasterxml.jackson.core</groupId>
+      <artifactId>jackson-databind</artifactId>
+      <version>${com.fasterxml.jackson.version}</version>
+    </dependency>
+
+    <dependency>
+      <groupId>com.thebuzzmedia</groupId>
+      <artifactId>exiftool-lib</artifactId>
+      <version>1.1</version>
+      <scope>compile</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>com.oracle</groupId>
+      <artifactId>javafx</artifactId>
+      <version>2.0</version>
+      <systemPath>${JAVA7_HOME}/jre/lib/jfxrt.jar</systemPath>
+      <scope>system</scope>
+    </dependency>
+
+    <dependency>
+      <groupId>com.adobe.xmp</groupId>
+      <artifactId>xmpcore</artifactId>
+      <version>5.1.0</version>
+      <scope>system</scope>
+      <systemPath>/Users/jeffreyawest/Data/mycode/sandbox/picture-checksum-scanner/lib/xmpcore.jar</systemPath>
+    </dependency>
+
+    <dependency>
+      <groupId>com.drewnoakes</groupId>
+      <artifactId>metadata-extractor</artifactId>
+      <version>2.6.2</version>
+      <scope>system</scope>
+      <systemPath>/Users/jeffreyawest/Data/mycode/sandbox/picture-checksum-scanner/lib/metadata-extractor-2.5.0-RC3-src.jar</systemPath>
+    </dependency>
+
+  </dependencies>
+
+  <repositories>
+    <repository>
+      <id>The Buzz Media Maven Repository</id>
+      <url>http://maven.thebuzzmedia.com</url>
+    </repository>
+
+    <repository>
+      <id>cedarsoft-thirdparty</id>
+      <url>http://maven.cedarsoft.com/content/repositories/thirdparty/</url>
+    </repository>
+
+  </repositories>
+
+</project>

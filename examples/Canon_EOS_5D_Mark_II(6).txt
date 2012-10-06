@@ -1,0 +1,58 @@
+[Jpeg] Compression Type - Baseline
+[Jpeg] Data Precision - 8 bits
+[Jpeg] Image Height - 427 pixels
+[Jpeg] Image Width - 640 pixels
+[Jpeg] Number of Components - 3
+[Jpeg] Component 1 - Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[Jpeg] Component 2 - Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jpeg] Component 3 - Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jfif] Version - 1.1
+[Jfif] Resolution Units - inch
+[Jfif] X Resolution - 72 dots
+[Jfif] Y Resolution - 72 dots
+[Exif SubIFD] Exposure Time - 0.5 sec
+[Exif SubIFD] F-Number - F8
+[Exif SubIFD] Exposure Program - Aperture priority
+[Exif SubIFD] ISO Speed Ratings - 200
+[Exif SubIFD] Exif Version - 2.21
+[Exif SubIFD] Date/Time Original - 2009:10:30 16:33:50
+[Exif SubIFD] Date/Time Digitized - 2009:10:30 16:33:50
+[Exif SubIFD] Components Configuration - YCbCr
+[Exif SubIFD] Shutter Speed Value - 0.5 sec
+[Exif SubIFD] Aperture Value - F8
+[Exif SubIFD] Exposure Bias Value - 0 EV
+[Exif SubIFD] Metering Mode - Multi-segment
+[Exif SubIFD] Flash - Flash did not fire, auto
+[Exif SubIFD] Focal Length - 32.0 mm
+[Exif SubIFD] User Comment - 
+[Exif SubIFD] Sub-Sec Time - 66
+[Exif SubIFD] Sub-Sec Time Original - 66
+[Exif SubIFD] Sub-Sec Time Digitized - 66
+[Exif SubIFD] FlashPix Version - 1.00
+[Exif SubIFD] Color Space - sRGB
+[Exif SubIFD] Exif Image Width - 640 pixels
+[Exif SubIFD] Exif Image Height - 427 pixels
+[Exif SubIFD] Focal Plane X Resolution - 1459/2784000 inches
+[Exif SubIFD] Focal Plane Y Resolution - 479/928000 inches
+[Exif SubIFD] Focal Plane Resolution Unit - Inches
+[Exif IFD0] Make - Canon
+[Exif IFD0] Model - Canon EOS 5D Mark II
+[Exif IFD0] Orientation - Right side, top (Rotate 90 CW)
+[Exif IFD0] X Resolution - 72 dots per inch
+[Exif IFD0] Y Resolution - 72 dots per inch
+[Exif IFD0] Resolution Unit - Inch
+[Exif IFD0] Date/Time - 2009:10:30 16:33:50
+[Exif IFD0] Artist - 
+[Exif IFD0] YCbCr Positioning - Datum point
+[Exif IFD0] Copyright - 
+[Exif IFD0] Unknown tag (0xa401) - 0
+[Exif IFD0] Unknown tag (0xa402) - 0
+[Exif IFD0] Unknown tag (0xa403) - 0
+[Exif IFD0] Unknown tag (0xa406) - 0
+[GPS] GPS Version ID - 2.200
+[Exif Thumbnail] Thumbnail Compression - JPEG (old-style)
+[Exif Thumbnail] X Resolution - 72 dots per inch
+[Exif Thumbnail] Y Resolution - 72 dots per inch
+[Exif Thumbnail] Resolution Unit - Inch
+[Exif Thumbnail] Thumbnail Offset - 1056 bytes
+[Exif Thumbnail] Thumbnail Length - 14058 bytes

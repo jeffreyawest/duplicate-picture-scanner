@@ -1,0 +1,179 @@
+[Jpeg] Compression Type - Baseline
+[Jpeg] Data Precision - 8 bits
+[Jpeg] Image Height - 2736 pixels
+[Jpeg] Image Width - 3648 pixels
+[Jpeg] Number of Components - 3
+[Jpeg] Component 1 - Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[Jpeg] Component 2 - Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jpeg] Component 3 - Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Exif SubIFD] Exposure Time - 1/6 sec
+[Exif SubIFD] F-Number - F2
+[Exif SubIFD] ISO Speed Ratings - 640
+[Exif SubIFD] Unknown tag (0x8830) - 4
+[Exif SubIFD] Exif Version - 2.30
+[Exif SubIFD] Date/Time Original - 2010:08:26 02:24:16
+[Exif SubIFD] Date/Time Digitized - 2010:08:26 02:24:16
+[Exif SubIFD] Components Configuration - YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel - 3 bits/pixel
+[Exif SubIFD] Shutter Speed Value - 1/6 sec
+[Exif SubIFD] Aperture Value - F2
+[Exif SubIFD] Exposure Bias Value - 0 EV
+[Exif SubIFD] Max Aperture Value - F2
+[Exif SubIFD] Metering Mode - Multi-segment
+[Exif SubIFD] Flash - Flash fired, red-eye reduction
+[Exif SubIFD] Focal Length - 6.0 mm
+[Exif SubIFD] User Comment - 
+[Exif SubIFD] FlashPix Version - 1.00
+[Exif SubIFD] Color Space - sRGB
+[Exif SubIFD] Exif Image Width - 3648 pixels
+[Exif SubIFD] Exif Image Height - 2736 pixels
+[Exif SubIFD] Focal Plane X Resolution - 146/1824000 inches
+[Exif SubIFD] Focal Plane Y Resolution - 73/912000 inches
+[Exif SubIFD] Focal Plane Resolution Unit - Inches
+[Exif SubIFD] Sensing Method - One-chip color area sensor
+[Exif SubIFD] File Source - Digital Still Camera (DSC)
+[Exif SubIFD] Custom Rendered - Normal process
+[Exif SubIFD] Exposure Mode - Auto exposure
+[Exif SubIFD] White Balance Mode - Auto white balance
+[Exif SubIFD] Digital Zoom Ratio - 1
+[Exif SubIFD] Scene Capture Type - Standard
+[Exif IFD0] Image Description -                                
+[Exif IFD0] Make - Canon
+[Exif IFD0] Model - Canon PowerShot S95
+[Exif IFD0] Orientation - Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution - 180 dots per inch
+[Exif IFD0] Y Resolution - 180 dots per inch
+[Exif IFD0] Resolution Unit - Inch
+[Exif IFD0] Software - Picasa
+[Exif IFD0] Date/Time - 2010:08:26 02:24:16
+[Exif IFD0] YCbCr Positioning - Datum point
+[Canon Makernote] Unknown tag (0xc100) - 96
+[Canon Makernote] Macro Mode - Normal
+[Canon Makernote] Self Timer Delay - Self timer not used
+[Canon Makernote] Quality - Fine
+[Canon Makernote] Flash Mode - On and red-eye reduction
+[Canon Makernote] Continuous Drive Mode - Continuous
+[Canon Makernote] Unknown Camera Setting 2 - 0
+[Canon Makernote] Focus Mode - Single
+[Canon Makernote] Unknown Camera Setting 3 - 65535
+[Canon Makernote] Unknown Camera Setting 4 - 1
+[Canon Makernote] Image Size - Large
+[Canon Makernote] Easy Shooting Mode - Manual
+[Canon Makernote] Digital Zoom - No digital zoom
+[Canon Makernote] Contrast - Normal
+[Canon Makernote] Saturation - Normal
+[Canon Makernote] Sharpness - Normal
+[Canon Makernote] Iso - Auto
+[Canon Makernote] Metering Mode - Evaluative
+[Canon Makernote] Focus Type - Auto
+[Canon Makernote] AF Point Selected - Unknown (8197)
+[Canon Makernote] Exposure Mode - Program
+[Canon Makernote] Unknown Camera Setting 7 - 32767
+[Canon Makernote] Unknown Camera Setting 8 - 65535
+[Canon Makernote] Long Focal Length - 22500 1000
+[Canon Makernote] Short Focal Length - 6000 1000
+[Canon Makernote] Focal Units per mm - 1000
+[Canon Makernote] Unknown Camera Setting 9 - 64
+[Canon Makernote] Unknown Camera Setting 10 - 192
+[Canon Makernote] Flash Activity - Unknown (65535)
+[Canon Makernote] Flash Details - Unknown (8200)
+[Canon Makernote] Unknown Camera Setting 12 - 0
+[Canon Makernote] Unknown Camera Setting 13 - 0
+[Canon Makernote] Focus Mode - Single
+[Canon Makernote] Unknown tag (0xc121) - 0
+[Canon Makernote] Unknown tag (0xc122) - 1
+[Canon Makernote] Unknown tag (0xc123) - 0
+[Canon Makernote] Unknown tag (0xc124) - 3648
+[Canon Makernote] Unknown tag (0xc125) - 3648
+[Canon Makernote] Unknown tag (0xc126) - 0
+[Canon Makernote] Unknown tag (0xc127) - 0
+[Canon Makernote] Unknown tag (0xc128) - 65535
+[Canon Makernote] Unknown tag (0xc129) - 0
+[Canon Makernote] Unknown tag (0xc12a) - 32767
+[Canon Makernote] Unknown tag (0xc12b) - 32767
+[Canon Makernote] Unknown tag (0xc12c) - 1
+[Canon Makernote] Unknown tag (0xc12d) - 0
+[Canon Makernote] Unknown tag (0xc12e) - 65535
+[Canon Makernote] Unknown tag (0xc12f) - 100
+[Canon Makernote] Unknown tag (0xc200) - 2
+[Canon Makernote] Unknown tag (0xc201) - 6000
+[Canon Makernote] Unknown tag (0xc202) - 299
+[Canon Makernote] Unknown tag (0xc203) - 224
+[Canon Makernote] Unknown tag (0x0003) - 0 0 0 0
+[Canon Makernote] Unknown tag (0xc400) - 68
+[Canon Makernote] Auto ISO - 86
+[Canon Makernote] Base ISO - 160
+[Canon Makernote] Measured EV - 65392
+[Canon Makernote] Target Aperture - 64
+[Canon Makernote] Target Exposure Time - 83
+[Canon Makernote] Exposure Compensation - 0
+[Canon Makernote] White Balance - 0
+[Canon Makernote] Slow Shutter - 0
+[Canon Makernote] Sequence Number - 1
+[Canon Makernote] Optical Zoom Code - 0
+[Canon Makernote] Unknown tag (0xc40b) - 0
+[Canon Makernote] Camera Temperature - 0
+[Canon Makernote] Flash Guide Number - 35
+[Canon Makernote] AF Points in Focus - 0
+[Canon Makernote] Flash Exposure Compensation - 0
+[Canon Makernote] Auto Exposure Bracketing - 0
+[Canon Makernote] AEB Bracket Value - 0
+[Canon Makernote] Control Mode - 1
+[Canon Makernote] Focus Distance Upper - 242
+[Canon Makernote] Focus Distance Lower - 0
+[Canon Makernote] F Number - 66
+[Canon Makernote] Exposure Time - 86
+[Canon Makernote] Measured EV 2 - 0
+[Canon Makernote] Bulb Duration - 0
+[Canon Makernote] Unknown tag (0xc419) - 65503
+[Canon Makernote] Camera Type - 250
+[Canon Makernote] Auto Rotate - 0
+[Canon Makernote] ND Filter - 0
+[Canon Makernote] Self Timer 2 - 0
+[Canon Makernote] Unknown tag (0xc41e) - 0
+[Canon Makernote] Unknown tag (0xc41f) - 0
+[Canon Makernote] Unknown tag (0xc420) - 0
+[Canon Makernote] Flash Output - 13
+[Canon Makernote] Image Type - IMG:PowerShot S95 JPEG
+[Canon Makernote] Firmware Version - Firmware Version 1.00
+[Canon Makernote] Image Number - 1331470
+[Canon Makernote] Owner Name - Jeffrey West
+[Canon Makernote] Camera Info Array - 7 670 411 0 0 0 200 258 259 0 0 0 0 201 453 383 0 0 -5 -96 -96 -97 -101 0 0 3 10 -433 -337 -337 200 474 384 0 0 -337 -337 0 1 1 0 10 1 156 -99 303 0 -67 0 0 0 78 1024 414 113 60 31 137 178 163 55 137 182 123 115 106 -188 128 29 149 0 0 953 1076 1024 1280 0 -140 131 -12 888 1783 1558 888 0 0 0 1 201 480 -433 603 384 -1 192 511 0 0 361 3 0 424 479 579 0 0 0 0 0 361 363 366 361 364 368 376 366 373 0 0 0 0 362 3586 0 0 0 1824 456 420 105 1404 351 328 82 0 0 3 3 2 0 0 0 0 0 0 6404 8662 0 65507 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 64 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1282789446 1282789454 0 0 0 1192285696 2269106 1192269824 0 1192269824 15872 1192269824 0 0 0 0 0 0 0 1192269824 15689728 0 0 0 22 13 1779865975
+[Canon Makernote] Canon Model ID - 43319296
+[Canon Makernote] Thumbnail Image Valid Area - 0 0 0 0
+[Canon Makernote] Unknown tag (0x0018) - 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Canon Makernote] Unknown tag (0x0019) - 1
+[Canon Makernote] Date Stamp Mode - 0
+[Canon Makernote] My Colors - 32 1 0 2 2 2 2 0 0 0 0 0 0 0 0 0
+[Canon Makernote] Firmware Revision - 16779264
+[Canon Makernote] Unknown tag (0x001f) - 138 1 0 4 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Canon Makernote] Unknown tag (0x0022) - 416 2 1 16 8 24 16 640 480 65236 65302 300 234 2 8 384 1026 1541 2055 2560 3083 3340 3085 2828 2314 1800 1286 4 1283 1792 2569 3083 3597 3855 3855 3342 2828 2314 1543 773 1536 2311 2826 13 4608 4883 4883 4114 3343 2571 1801 6 5 2568 3339 4367 5651 6680 6170 4886 3857 13 2058 7 0 9 3840 17 7192 8736 8226 6172 4372 0 0 7 0 2816 0 6163 30 10535 10025 0 4888 0 0 0 0 0 4366 6933 0 11564 45 0 0 0 0 0 0 0 4623 7702 10789 12078 11823 0 0 0 0 0 0 3082 4623 7702 10789 12078 11823 0 0 0 0 0 0 3072 4366 6933 35 0 0 0 0 0 0 0 0 0 14 6163 9246 39 0 0 0 0 0 0 0 0 3852 5137 7192 32 0 0 0 0 0 0 0 0 3328 15 5651 6680 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+[Canon Makernote] Categories - 8 0
+[Canon Makernote] AF Info Array 2 - 98 2 9 1 3648 2736 100 100 18 0 0 0 0 0 0 0 0 18 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+[Canon Makernote] Unknown tag (0x0027) - 10 0 65535 0 8 18 257 64 0
+[Canon Makernote] Image Unique ID - 249 181 63 234 118 211 187 128 51 161 177 129 30 174 150 204
+[Canon Makernote] Unknown tag (0x002d) - 0
+[Canon Makernote] Unknown tag (0x002e) - 10 0 0 1 0
+[Canon Makernote] Unknown tag (0x002f) - 34 1 0 0 240 0 255 103 1 0 1 0 16 0 2 14 28
+[Canon Makernote] Unknown tag (0x0031) - 12 1 65535 65535 65535 65535
+[Canon Makernote] Aspect Information Array - 2 3648 2736 0 0
+[Canon Makernote] VRD Offset - 0
+[Interoperability] Interoperability Index - Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version - 1.00
+[Interoperability] Related Image Width - 3648
+[Interoperability] Related Image Length - 2736
+[Exif Thumbnail] Thumbnail Compression - JPEG (old-style)
+[Exif Thumbnail] X Resolution - 180 dots per inch
+[Exif Thumbnail] Y Resolution - 180 dots per inch
+[Exif Thumbnail] Resolution Unit - Inch
+[Exif Thumbnail] Thumbnail Offset - 3912 bytes
+[Exif Thumbnail] Thumbnail Length - 4876 bytes
+[Photoshop] IPTC-NAA record - 115 bytes binary data
+[Photoshop] Caption digest - [16 bytes]
+[Iptc] Enveloped Record Version -  
+[Iptc] Coded Character Set - %G
+[Iptc] Application Record Version - 4
+[Iptc] Keywords - Eye-Fi;Melbourne;Victoria;Australia
+[Iptc] City - Melbourne
+[Iptc] Province/State - Victoria
+[Iptc] Country/Primary Location Name - Australia

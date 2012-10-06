@@ -1,0 +1,53 @@
+[Jpeg] Compression Type - Baseline
+[Jpeg] Data Precision - 8 bits
+[Jpeg] Image Height - 610 pixels
+[Jpeg] Image Width - 480 pixels
+[Jpeg] Number of Components - 3
+[Jpeg] Component 1 - Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[Jpeg] Component 2 - Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jpeg] Component 3 - Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jfif] Version - 1.1
+[Jfif] Resolution Units - inch
+[Jfif] X Resolution - 72 dots
+[Jfif] Y Resolution - 72 dots
+[Exif SubIFD] Exposure Time - 1/40 sec
+[Exif SubIFD] F-Number - F3.8
+[Exif SubIFD] Exposure Program - Program normal
+[Exif SubIFD] ISO Speed Ratings - 200
+[Exif SubIFD] Exif Version - 2.20
+[Exif SubIFD] Date/Time Original - 2003:12:13 22:52:51
+[Exif SubIFD] Date/Time Digitized - 2003:12:13 22:52:51
+[Exif SubIFD] Components Configuration - YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel - 4 bits/pixel
+[Exif SubIFD] Exposure Bias Value - 0 EV
+[Exif SubIFD] Max Aperture Value - F3.8
+[Exif SubIFD] Metering Mode - Multi-segment
+[Exif SubIFD] White Balance - Unknown
+[Exif SubIFD] Flash - Flash fired, return not detected, red-eye reduction
+[Exif SubIFD] Focal Length - 12.6 mm
+[Exif SubIFD] FlashPix Version - 1.00
+[Exif SubIFD] Color Space - sRGB
+[Exif SubIFD] Exif Image Width - 2048 pixels
+[Exif SubIFD] Exif Image Height - 1536 pixels
+[Exif SubIFD] File Source - Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type - Directly photographed image
+[Exif SubIFD] User Comment - ACD Systems Digital Imaging
+[Exif IFD0] Image Description -                                
+[Exif IFD0] Make - SONY
+[Exif IFD0] Model - DSC-P52
+[Exif IFD0] Orientation - Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution - 72 dots per inch
+[Exif IFD0] Y Resolution - 72 dots per inch
+[Exif IFD0] Resolution Unit - Inch
+[Exif IFD0] Date/Time - 2003:12:13 22:52:51
+[Exif IFD0] YCbCr Positioning - Datum point
+[Sony Makernote] Unknown tag (0x9001) - [148 bytes]
+[Sony Makernote] Unknown tag (0x9002) - [200 bytes]
+[Sony Makernote] Unknown tag (0x9003) - [200 bytes]
+[Sony Makernote] Unknown tag (0x9004) - [26 bytes]
+[Sony Makernote] Unknown tag (0x9005) - [120 bytes]
+[Sony Makernote] Unknown tag (0x9006) - [252 bytes]
+[Sony Makernote] Unknown tag (0x9007) - [200 bytes]
+[Photoshop] IPTC-NAA record - 84 bytes binary data
+[Iptc] Caption/Abstract - 'DUPLICATE-PREDATE_20031213_225251' DUPLICATE-JPEG_DATE_20031213_225251'
+[Iptc] Application Record Version - 4

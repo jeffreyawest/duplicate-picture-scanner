@@ -1,0 +1,107 @@
+[Jpeg] Compression Type - Baseline
+[Jpeg] Data Precision - 8 bits
+[Jpeg] Image Height - 253 pixels
+[Jpeg] Image Width - 400 pixels
+[Jpeg] Number of Components - 3
+[Jpeg] Component 1 - Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[Jpeg] Component 2 - Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jpeg] Component 3 - Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Exif SubIFD] Exposure Time - 0.05 sec
+[Exif SubIFD] F-Number - F0
+[Exif SubIFD] Exposure Program - Manual control
+[Exif SubIFD] ISO Speed Ratings - 400
+[Exif SubIFD] Exif Version - 2.21
+[Exif SubIFD] Date/Time Original - 2010:07:04 08:29:14
+[Exif SubIFD] Date/Time Digitized - 2010:07:04 08:29:14
+[Exif SubIFD] Components Configuration - YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel - 2 bits/pixel
+[Exif SubIFD] Exposure Bias Value - 0 EV
+[Exif SubIFD] Max Aperture Value - F1
+[Exif SubIFD] Metering Mode - Center weighted average
+[Exif SubIFD] White Balance - Unknown
+[Exif SubIFD] Flash - Flash did not fire
+[Exif SubIFD] Focal Length - 0.0 mm
+[Exif SubIFD] User Comment - 
+[Exif SubIFD] Sub-Sec Time - 39
+[Exif SubIFD] Sub-Sec Time Original - 39
+[Exif SubIFD] Sub-Sec Time Digitized - 39
+[Exif SubIFD] FlashPix Version - 1.00
+[Exif SubIFD] Color Space - Undefined
+[Exif SubIFD] Exif Image Width - 2000 pixels
+[Exif SubIFD] Exif Image Height - 1266 pixels
+[Exif SubIFD] Sensing Method - One-chip color area sensor
+[Exif SubIFD] File Source - Digital Still Camera (DSC)
+[Exif SubIFD] Scene Type - Directly photographed image
+[Exif SubIFD] CFA Pattern - 0 2 0 2 0 1 1 2
+[Exif SubIFD] Custom Rendered - Normal process
+[Exif SubIFD] Exposure Mode - Manual exposure
+[Exif SubIFD] White Balance Mode - Auto white balance
+[Exif SubIFD] Digital Zoom Ratio - 1
+[Exif SubIFD] Focal Length 35 - Unknown
+[Exif SubIFD] Scene Capture Type - Standard
+[Exif SubIFD] Gain Control - Low gain up
+[Exif SubIFD] Contrast - None
+[Exif SubIFD] Saturation - None
+[Exif SubIFD] Sharpness - Hard
+[Exif SubIFD] Subject Distance Range - Unknown
+[Exif IFD0] Image Description - An American flag is seen through rain drops on a wind shield Sunday afternoon July 4, 2010, in Salina, Kan. Rain canceled or postponed many Fourth of July events Sunday.  (AP Photo/Salina Journal, Tom Dorsey)
+[Exif IFD0] Make - NIKON CORPORATION
+[Exif IFD0] Model - NIKON D300
+[Exif IFD0] Orientation - Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution - 200 dots per inch
+[Exif IFD0] Y Resolution - 200 dots per inch
+[Exif IFD0] Resolution Unit - Inch
+[Exif IFD0] Software - Adobe Photoshop CS4 Macintosh
+[Exif IFD0] Date/Time - 2010:07:04 12:17:48
+[Exif IFD0] Artist - Tom Dorsey
+[Exif IFD0] YCbCr Positioning - Datum point
+[Exif IFD0] Copyright - Tom Dorsey / Salina Journal
+[GPS] GPS Version ID - 2.200
+[Exif Thumbnail] Thumbnail Compression - JPEG (old-style)
+[Exif Thumbnail] X Resolution - 72 dots per inch
+[Exif Thumbnail] Y Resolution - 72 dots per inch
+[Exif Thumbnail] Resolution Unit - Inch
+[Exif Thumbnail] Thumbnail Offset - 1254 bytes
+[Exif Thumbnail] Thumbnail Length - 8639 bytes
+[ICC Profile] Profile Bytes - 560 bytes binary data
+[ICC Profile] Profile Size - 560
+[ICC Profile] CMM Type - ADBE
+[ICC Profile] Version - 2.1.0
+[ICC Profile] Class - Display Device
+[ICC Profile] Color space - RGB 
+[ICC Profile] Profile Connection Space - XYZ 
+[ICC Profile] Profile Date/Time - Fri Jul 02 17:00:00 PDT 1999
+[ICC Profile] Signature - acsp
+[ICC Profile] Primary Platform - Apple Computer, Inc.
+[ICC Profile] Device manufacturer - none
+[ICC Profile] XYZ values - 0.9642029 1.0 0.8249054
+[ICC Profile] Tag Count - 10
+[ICC Profile] Copyright - Copyright 1999 Adobe Systems Incorporated
+[ICC Profile] Profile Description - Adobe RGB (1998)
+[ICC Profile] Media White Point - (0.9504547, 1.0, 1.0890503)
+[ICC Profile] Media Black Point - (0.0, 0.0, 0.0)
+[ICC Profile] Red TRC - 0.0085908
+[ICC Profile] Green TRC - 0.0085908
+[ICC Profile] Blue TRC - 0.0085908
+[ICC Profile] Red Colorant - (0.6097412, 0.31111145, 0.019470215)
+[ICC Profile] Green Colorant - (0.20527649, 0.6256714, 0.06086731)
+[ICC Profile] Blue Colorant - (0.14918518, 0.06321716, 0.7445679)
+[Photoshop] IPTC-NAA record - 519 bytes binary data
+[Iptc] Application Record Version - 1
+[Iptc] Object Name - APTOPIX Fourth of July
+[Iptc] Urgency - 53
+[Iptc] Category - A
+[Iptc] Special Instructions - STAND ALONE
+[Iptc] Date Created - Sun Jul 04 00:00:00 PDT 2010
+[Iptc] Time Created - 134230+0000
+[Iptc] By-line - Tom Dorsey
+[Iptc] By-line Title - MBO
+[Iptc] City - SALINA
+[Iptc] Province/State - KS
+[Iptc] Country/Primary Location Name - USA
+[Iptc] Original Transmission Reference - KSSAL101
+[Iptc] Credit - AP
+[Iptc] Source - SALINA JOURNAL
+[Iptc] Copyright Notice - Tom Dorsey / Salina Journal
+[Iptc] Caption/Abstract - 'An American flag is seen through rain drops on a wind shield Sunday, July 4, 2010, in Salina, Kan. Rain canceled or postponed many Fourth of July events in the area Sunday.  (AP Photo/Salina Journal, Tom Dorsey)  DUPLICATE-PREDATE_20100704_082914' DUPLICATE-JPEG_DATE_20100704_082914'
+[Iptc] Caption Writer/Editor - THD CJ**NY**

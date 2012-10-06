@@ -1,0 +1,125 @@
+[Jpeg] Compression Type - Baseline
+[Jpeg] Data Precision - 8 bits
+[Jpeg] Image Height - 1440 pixels
+[Jpeg] Image Width - 2160 pixels
+[Jpeg] Number of Components - 3
+[Jpeg] Component 1 - Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[Jpeg] Component 2 - Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jpeg] Component 3 - Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Exif SubIFD] Exposure Time - 1/250 sec
+[Exif SubIFD] F-Number - F13
+[Exif SubIFD] ISO Speed Ratings - 100
+[Exif SubIFD] Exif Version - 2.10
+[Exif SubIFD] Date/Time Original - 2005:07:16 05:36:18
+[Exif SubIFD] Date/Time Digitized - 2005:07:16 05:36:18
+[Exif SubIFD] Components Configuration - YCbCr
+[Exif SubIFD] Compressed Bits Per Pixel - 3 bits/pixel
+[Exif SubIFD] Shutter Speed Value - 1/250 sec
+[Exif SubIFD] Aperture Value - F13
+[Exif SubIFD] Exposure Bias Value - -1 EV
+[Exif SubIFD] Max Aperture Value - F4
+[Exif SubIFD] Subject Distance - 0.0 metres
+[Exif SubIFD] Metering Mode - Multi-segment
+[Exif SubIFD] Flash - Flash did not fire
+[Exif SubIFD] Focal Length - 28.0 mm
+[Exif SubIFD] User Comment - 
+[Exif SubIFD] FlashPix Version - 1.00
+[Exif SubIFD] Color Space - sRGB
+[Exif SubIFD] Exif Image Width - 2160 pixels
+[Exif SubIFD] Exif Image Height - 1440 pixels
+[Exif SubIFD] Focal Plane X Resolution - 446/1080000 inches
+[Exif SubIFD] Focal Plane Y Resolution - 119/288000 inches
+[Exif SubIFD] Focal Plane Resolution Unit - Inches
+[Exif SubIFD] Sensing Method - One-chip color area sensor
+[Exif SubIFD] File Source - Digital Still Camera (DSC)
+[Exif IFD0] Make - Canon
+[Exif IFD0] Model - Canon EOS D30
+[Exif IFD0] Orientation - Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution - 180 dots per inch
+[Exif IFD0] Y Resolution - 180 dots per inch
+[Exif IFD0] Resolution Unit - Inch
+[Exif IFD0] Date/Time - 2005:07:16 05:36:18
+[Exif IFD0] YCbCr Positioning - Center of pixel array
+[Canon Makernote] Unknown tag (0xc100) - 64
+[Canon Makernote] Macro Mode - Normal
+[Canon Makernote] Self Timer Delay - Self timer not used
+[Canon Makernote] Quality - Fine
+[Canon Makernote] Flash Mode - No flash fired
+[Canon Makernote] Continuous Drive Mode - Single shot
+[Canon Makernote] Unknown Camera Setting 2 - 0
+[Canon Makernote] Focus Mode - One-shot
+[Canon Makernote] Unknown Camera Setting 3 - 0
+[Canon Makernote] Unknown Camera Setting 4 - 1
+[Canon Makernote] Image Size - Large
+[Canon Makernote] Easy Shooting Mode - Manual
+[Canon Makernote] Digital Zoom - No digital zoom
+[Canon Makernote] Contrast - Normal
+[Canon Makernote] Saturation - Normal
+[Canon Makernote] Sharpness - Normal
+[Canon Makernote] Iso - Not specified (see ISOSpeedRatings tag)
+[Canon Makernote] Metering Mode - Evaluative
+[Canon Makernote] Focus Type - Unknown (2)
+[Canon Makernote] AF Point Selected - Centre
+[Canon Makernote] Exposure Mode - Program
+[Canon Makernote] Unknown Camera Setting 7 - 0
+[Canon Makernote] Unknown Camera Setting 8 - 6
+[Canon Makernote] Long Focal Length - 50 1
+[Canon Makernote] Short Focal Length - 18 1
+[Canon Makernote] Focal Units per mm - 1
+[Canon Makernote] Unknown Camera Setting 9 - 128
+[Canon Makernote] Unknown Camera Setting 10 - 304
+[Canon Makernote] Flash Activity - Unknown (255)
+[Canon Makernote] Flash Details - Unknown (0)
+[Canon Makernote] Unknown Camera Setting 12 - 0
+[Canon Makernote] Unknown Camera Setting 13 - 0
+[Canon Makernote] Unknown tag (0xc200) - 0
+[Canon Makernote] Unknown tag (0xc201) - 28
+[Canon Makernote] Unknown tag (0xc202) - 914
+[Canon Makernote] Unknown tag (0xc203) - 610
+[Canon Makernote] Unknown tag (0x0003) - 100 0 0 0
+[Canon Makernote] Unknown tag (0xc400) - 50
+[Canon Makernote] Auto ISO - 0
+[Canon Makernote] Base ISO - 160
+[Canon Makernote] Measured EV - 304
+[Canon Makernote] Target Aperture - 237
+[Canon Makernote] Target Exposure Time - 255
+[Canon Makernote] Exposure Compensation - 65504
+[Canon Makernote] White Balance - 0
+[Canon Makernote] Slow Shutter - 3
+[Canon Makernote] Sequence Number - 0
+[Canon Makernote] Optical Zoom Code - 8
+[Canon Makernote] Unknown tag (0xc40b) - 8
+[Canon Makernote] Camera Temperature - 0
+[Canon Makernote] Flash Guide Number - 0
+[Canon Makernote] AF Points in Focus - 12290
+[Canon Makernote] Flash Exposure Compensation - 0
+[Canon Makernote] Auto Exposure Bracketing - 0
+[Canon Makernote] AEB Bracket Value - 0
+[Canon Makernote] Control Mode - 1
+[Canon Makernote] Focus Distance Upper - 0
+[Canon Makernote] Focus Distance Lower - 0
+[Canon Makernote] F Number - 236
+[Canon Makernote] Exposure Time - 260
+[Canon Makernote] Measured EV 2 - 169
+[Canon Makernote] Bulb Duration - 0
+[Canon Makernote] Unknown tag (0x0000) - 0 0 0 0 0 0
+[Canon Makernote] Unknown tag (0x000a) - 118 8 8 0 0 12 7666 26911 632 7730 21023 21121 10241 64299 20959 9841 59945 41483 8322 40225 49792 7826 22814 62065 9649 57894 463 9393 50980 437 7202 12315 8726 6962 5402 16925 8801 49956 4527 8625 41249 12725 7250 23069 25134 7378 28701 12864 9249 52519 49622 9921 56360 8666 4 127 130 127 129
+[Canon Makernote] Image Type - IMG:EOS D30 JPEG
+[Canon Makernote] Firmware Version - Firmware Version 1.03
+[Canon Makernote] Camera Serial Number - 000000055
+[Canon Makernote] Image Number - 2292993
+[Canon Makernote] Owner Name - Jerry Russell
+[Canon Makernote] Canon Model ID - 18087936
+[Canon Makernote] File Length - 1509539
+[Canon Makernote] Camera Info Array - 0 0 0 0 0 0 0 0 48 0
+[Canon Makernote] Custom Functions - 28 257 512 768 1024 1280 1536 1792 2048 2304 2560 2818 3074 3328
+[Interoperability] Interoperability Index - Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version - 1.00
+[Interoperability] Related Image Width - 2160
+[Interoperability] Related Image Length - 1440
+[Exif Thumbnail] Thumbnail Compression - JPEG (old-style)
+[Exif Thumbnail] X Resolution - 180 dots per inch
+[Exif Thumbnail] Y Resolution - 180 dots per inch
+[Exif Thumbnail] Resolution Unit - Inch
+[Exif Thumbnail] Thumbnail Offset - 2036 bytes
+[Exif Thumbnail] Thumbnail Length - 7168 bytes

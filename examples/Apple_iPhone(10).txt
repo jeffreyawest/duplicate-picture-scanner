@@ -1,0 +1,142 @@
+[Jpeg] Compression Type - Baseline
+[Jpeg] Data Precision - 8 bits
+[Jpeg] Image Height - 2048 pixels
+[Jpeg] Image Width - 1536 pixels
+[Jpeg] Number of Components - 3
+[Jpeg] Component 1 - Y component: Quantization table 0, Sampling factors 1 horiz/2 vert
+[Jpeg] Component 2 - Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jpeg] Component 3 - Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[JpegComment] Jpeg Comment - AppleMark
+
+[Exif SubIFD] Exposure Time - 1/15 sec
+[Exif SubIFD] F-Number - F2.8
+[Exif SubIFD] ISO Speed Ratings - 148
+[Exif SubIFD] Exif Version - 2.20
+[Exif SubIFD] Date/Time Original - 2009:07:04 15:21:24
+[Exif SubIFD] Date/Time Digitized - 2009:07:04 15:21:24
+[Exif SubIFD] Components Configuration - YCbCr
+[Exif SubIFD] Focal Length - 3.85 mm
+[Exif SubIFD] User Comment - {
+    AEAverage = 206;
+    AELimitsReached = 0;
+    AEStable = 1;
+    AFStable = 1;
+    AFStatus = 4;
+    AGC = 526;
+    AWBBGain = 150;
+    AWBGGain = 64;
+    AWBRGain = 178;
+    AWBStable = 1;
+    AccelerometerDeltas = "(0.0159 0.0182 0.0047) @ 0.0200";
+    ApertureValue = 3;
+    BrightnessValue = 1.680268961293381;
+    CurrentFocusPosition = 81;
+    ExposureBias = 0;
+    ExposureTime = 0.06650323478260869;
+    Fnumber = 2.8;
+    FocalLength = 3.85;
+    FocusBand = "14.80 in [12.32, 17.98]";
+    FocusMode = 1;
+    FocusPeakSumArray =     (
+        34362,
+        35173,
+        36164,
+        37425,
+        227405
+    );
+    FocusScan = "(0,9.98) (29,12.23) (56,13.72) (81,14.38) (105,12.88) (127,12.48) 0.9s ago";
+    FocusScoresArray =     (
+        422150,
+        442281,
+        464016,
+        487541,
+        5023781
+    );
+    FocusWindow = "350/300 300x400";
+    FullyExposed = 1;
+    ISOSpeedRating = 148;
+    NoiseReduction = "S:6 C:8 Y:0";
+    OneFrameAEMode = 1;
+    Orientation = 6;
+    OverflowOccurred = 0;
+    PreviousFocusBand = "67.15 in [0.00, 0.00]";
+    PreviousFocusScan = "(0,120.91) (42,7.75) (81,11.11) (116,8.26) (149,7.54) (178,7.09) (206,6.67) (231,7.03) (255,7.49) 3.4s ago";
+    SNR = 31.28619058289225;
+    SensorID = 13904;
+    Sharpness = 9;
+    ShutterSpeedValue = 3.910431673351468;
+    ispDGain = 256;
+    sensorDGain = 256;
+    "{Exif}" =     {
+        ColorSpace = 65535;
+        DateTimeDigitized = "2009:07:04 15:21:24";
+        DateTimeOriginal = "2009:07:04 15:21:24";
+        ExposureTime = 0.06666666666666667;
+        FNumber = 2.8;
+        FocalLength = 3.85;
+        ISOSpeedRatings =         (
+            148
+        );
+        PixelXDimension = 2048;
+        PixelYDimension = 1536;
+        Sharpness = 1;
+    };
+    "{TIFF}" =     {
+        DateTime = "2009:07:04 15:21:24";
+        Make = Apple;
+        Model = iPhone;
+        XResolution = 72;
+        YResolution = 72;
+    };
+}
+[Exif SubIFD] FlashPix Version - 1.00
+[Exif SubIFD] Color Space - sRGB
+[Exif SubIFD] Exif Image Width - 2048 pixels
+[Exif SubIFD] Exif Image Height - 1536 pixels
+[Exif SubIFD] Sharpness - Low
+[Exif IFD0] Make - Apple
+[Exif IFD0] Model - iPhone
+[Exif IFD0] Orientation - Top, left side (Horizontal / normal)
+[Exif IFD0] X Resolution - 72 dots per inch
+[Exif IFD0] Y Resolution - 72 dots per inch
+[Exif IFD0] Resolution Unit - Inch
+[Exif IFD0] Software - QuickTime 7.6.6
+[Exif IFD0] Date/Time - 2010:07:04 22:13:15
+[Exif IFD0] Unknown tag (0x013c) - Mac OS X 10.6.4
+[Exif IFD0] YCbCr Positioning - Center of pixel array
+[GPS] GPS Img Direction Ref - Magnetic direction
+[GPS] GPS Img Direction - 320 degrees
+[Exif Thumbnail] Thumbnail Compression - JPEG (old-style)
+[Exif Thumbnail] X Resolution - 72 dots per inch
+[Exif Thumbnail] Y Resolution - 72 dots per inch
+[Exif Thumbnail] Resolution Unit - Inch
+[Exif Thumbnail] Thumbnail Offset - 2584 bytes
+[Exif Thumbnail] Thumbnail Length - 3932 bytes
+[Exif Thumbnail] YCbCr Positioning - Center of pixel array
+[ICC Profile] Profile Bytes - 1352 bytes binary data
+[ICC Profile] Profile Size - 1352
+[ICC Profile] CMM Type - appl
+[ICC Profile] Version - 2.2.0
+[ICC Profile] Class - Input Device
+[ICC Profile] Color space - RGB 
+[ICC Profile] Profile Connection Space - XYZ 
+[ICC Profile] Profile Date/Time - Thu Jul 31 17:00:00 PDT 2003
+[ICC Profile] Signature - acsp
+[ICC Profile] Primary Platform - Apple Computer, Inc.
+[ICC Profile] Device manufacturer - appl
+[ICC Profile] XYZ values - 0.9642029 1.0 0.8249054
+[ICC Profile] Tag Count - 11
+[ICC Profile] Red Colorant - (0.4542694, 0.24263, 0.014816284)
+[ICC Profile] Green Colorant - (0.35331726, 0.67440796, 0.090423584)
+[ICC Profile] Blue Colorant - (0.15661621, 0.083358765, 0.7195282)
+[ICC Profile] Media White Point - (0.95047, 1.0, 1.0890961)
+[ICC Profile] Chromatic Adaptation - sf32(0x73663332): 44 bytes
+[ICC Profile] Red TRC - 0.0085908
+[ICC Profile] Green TRC - 0.0085908
+[ICC Profile] Blue TRC - 0.0085908
+[ICC Profile] Profile Description - Camera RGB Profile
+[ICC Profile] Copyright - Copyright 2003 Apple Computer Inc., all rights reserved.
+[ICC Profile] Apple Multi-language Profile Name - 15 enUS(Camera RGB Profile) esES(Perfil RGB para Cámara) daDK(RGB-beskrivelse til Kamera) deDE(RGB-Profil für Kameras) fiFI(Kameran RGB-profiili) frFU(Profil RVB de l’appareil-photo) itIT(Profilo RGB Fotocamera) nlNL(RGB-profiel Camera) noNO(RGB-kameraprofil) ptBR(Perfil RGB de Câmera) svSE(RGB-profil för Kamera) jaJP(??? RGB ??????) koKR(??? RGB ????) zhTW(???? RGB ????) zhCN(?? RGB ????)
+[Photoshop] IPTC-NAA record - 84 bytes binary data
+[Iptc] Caption/Abstract - 'DUPLICATE-PREDATE_20090704_152124' DUPLICATE-JPEG_DATE_20090704_152124'
+[Iptc] Application Record Version - 4

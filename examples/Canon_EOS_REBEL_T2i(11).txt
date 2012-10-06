@@ -1,0 +1,193 @@
+[Jpeg] Compression Type - Baseline
+[Jpeg] Data Precision - 8 bits
+[Jpeg] Image Height - 1067 pixels
+[Jpeg] Image Width - 1600 pixels
+[Jpeg] Number of Components - 3
+[Jpeg] Component 1 - Y component: Quantization table 0, Sampling factors 2 horiz/2 vert
+[Jpeg] Component 2 - Cb component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jpeg] Component 3 - Cr component: Quantization table 1, Sampling factors 1 horiz/1 vert
+[Jfif] Version - 1.1
+[Jfif] Resolution Units - inch
+[Jfif] X Resolution - 96 dots
+[Jfif] Y Resolution - 96 dots
+[Exif SubIFD] Exposure Time - 1/60 sec
+[Exif SubIFD] F-Number - F4.5
+[Exif SubIFD] Exposure Program - Unknown program (0)
+[Exif SubIFD] ISO Speed Ratings - 320
+[Exif SubIFD] Exif Version - 2.21
+[Exif SubIFD] Date/Time Original - 2010:03:27 17:43:22
+[Exif SubIFD] Date/Time Digitized - 2010:03:27 17:43:22
+[Exif SubIFD] Components Configuration - YCbCr
+[Exif SubIFD] Shutter Speed Value - 1/63 sec
+[Exif SubIFD] Aperture Value - F4.6
+[Exif SubIFD] Exposure Bias Value - 0 EV
+[Exif SubIFD] Metering Mode - Multi-segment
+[Exif SubIFD] Flash - Flash did not fire
+[Exif SubIFD] Focal Length - 37.0 mm
+[Exif SubIFD] User Comment - 
+[Exif SubIFD] Sub-Sec Time - 32
+[Exif SubIFD] Sub-Sec Time Original - 32
+[Exif SubIFD] Sub-Sec Time Digitized - 32
+[Exif SubIFD] FlashPix Version - 1.00
+[Exif SubIFD] Color Space - Undefined
+[Exif SubIFD] Exif Image Width - 1600 pixels
+[Exif SubIFD] Exif Image Height - 1067 pixels
+[Exif SubIFD] Focal Plane X Resolution - 181/1036800 inches
+[Exif SubIFD] Focal Plane Y Resolution - 119/691200 inches
+[Exif SubIFD] Focal Plane Resolution Unit - Inches
+[Exif SubIFD] Custom Rendered - Normal process
+[Exif SubIFD] Exposure Mode - Auto exposure
+[Exif SubIFD] White Balance Mode - Auto white balance
+[Exif SubIFD] Scene Capture Type - Standard
+[Exif SubIFD] Unique Image ID - bd324ee85035b9bcb5724429825749ad
+[Exif IFD0] Make - Canon
+[Exif IFD0] Model - Canon EOS REBEL T2i
+[Exif IFD0] Orientation - 0
+[Exif IFD0] X Resolution - 72 dots per inch
+[Exif IFD0] Y Resolution - 72 dots per inch
+[Exif IFD0] Resolution Unit - Inch
+[Exif IFD0] Software - Picasa 3.0
+[Exif IFD0] Date/Time - 2012:05:12 10:32:23
+[Exif IFD0] Artist - 
+[Exif IFD0] YCbCr Positioning - Datum point
+[Exif IFD0] Copyright - 
+[Canon Makernote] Unknown tag (0xc100) - 98
+[Canon Makernote] Macro Mode - Normal
+[Canon Makernote] Self Timer Delay - Self timer not used
+[Canon Makernote] Quality - Fine
+[Canon Makernote] Flash Mode - No flash fired
+[Canon Makernote] Continuous Drive Mode - Single shot
+[Canon Makernote] Unknown Camera Setting 2 - 0
+[Canon Makernote] Focus Mode - One-shot
+[Canon Makernote] Unknown Camera Setting 3 - 0
+[Canon Makernote] Unknown Camera Setting 4 - 1
+[Canon Makernote] Image Size - Large
+[Canon Makernote] Easy Shooting Mode - Macro / Closeup
+[Canon Makernote] Digital Zoom - No digital zoom
+[Canon Makernote] Contrast - Normal
+[Canon Makernote] Saturation - Normal
+[Canon Makernote] Sharpness - Unknown (32767)
+[Canon Makernote] Iso - Auto
+[Canon Makernote] Metering Mode - Evaluative
+[Canon Makernote] Focus Type - Unknown (2)
+[Canon Makernote] AF Point Selected - Unknown (0)
+[Canon Makernote] Exposure Mode - Easy shooting
+[Canon Makernote] Unknown Camera Setting 7 - 65535
+[Canon Makernote] Unknown Camera Setting 8 - 48
+[Canon Makernote] Long Focal Length - 55 1
+[Canon Makernote] Short Focal Length - 18 1
+[Canon Makernote] Focal Units per mm - 1
+[Canon Makernote] Unknown Camera Setting 9 - 140
+[Canon Makernote] Unknown Camera Setting 10 - 312
+[Canon Makernote] Flash Activity - Flash did not fire
+[Canon Makernote] Flash Details - Unknown (8)
+[Canon Makernote] Unknown Camera Setting 12 - 0
+[Canon Makernote] Unknown Camera Setting 13 - 0
+[Canon Makernote] Focus Mode - Unknown (65535)
+[Canon Makernote] Unknown tag (0xc121) - 65535
+[Canon Makernote] Unknown tag (0xc122) - 65535
+[Canon Makernote] Unknown tag (0xc123) - 0
+[Canon Makernote] Unknown tag (0xc124) - 0
+[Canon Makernote] Unknown tag (0xc125) - 0
+[Canon Makernote] Unknown tag (0xc126) - 0
+[Canon Makernote] Unknown tag (0xc127) - 65535
+[Canon Makernote] Unknown tag (0xc128) - 65535
+[Canon Makernote] Unknown tag (0xc129) - 0
+[Canon Makernote] Unknown tag (0xc12a) - 0
+[Canon Makernote] Unknown tag (0xc12b) - 32767
+[Canon Makernote] Unknown tag (0xc12c) - 65535
+[Canon Makernote] Unknown tag (0xc12d) - 65535
+[Canon Makernote] Unknown tag (0xc12e) - 65535
+[Canon Makernote] Unknown tag (0xc12f) - 0
+[Canon Makernote] Unknown tag (0xc130) - 65535
+[Canon Makernote] Unknown tag (0xc200) - 0
+[Canon Makernote] Unknown tag (0xc201) - 37
+[Canon Makernote] Unknown tag (0xc202) - 8902
+[Canon Makernote] Unknown tag (0xc203) - 19690
+[Canon Makernote] Unknown tag (0x0003) - 0 0 0 0
+[Canon Makernote] Unknown tag (0xc400) - 68
+[Canon Makernote] Auto ISO - 0
+[Canon Makernote] Base ISO - 212
+[Canon Makernote] Measured EV - 116
+[Canon Makernote] Target Aperture - 140
+[Canon Makernote] Target Exposure Time - 192
+[Canon Makernote] Exposure Compensation - 0
+[Canon Makernote] White Balance - 0
+[Canon Makernote] Slow Shutter - 3
+[Canon Makernote] Sequence Number - 0
+[Canon Makernote] Optical Zoom Code - 8
+[Canon Makernote] Unknown tag (0xc40b) - 8
+[Canon Makernote] Camera Temperature - 154
+[Canon Makernote] Flash Guide Number - 0
+[Canon Makernote] AF Points in Focus - 0
+[Canon Makernote] Flash Exposure Compensation - 0
+[Canon Makernote] Auto Exposure Bracketing - 0
+[Canon Makernote] AEB Bracket Value - 0
+[Canon Makernote] Control Mode - 1
+[Canon Makernote] Focus Distance Upper - 0
+[Canon Makernote] Focus Distance Lower - 0
+[Canon Makernote] F Number - 140
+[Canon Makernote] Exposure Time - 188
+[Canon Makernote] Measured EV 2 - 119
+[Canon Makernote] Bulb Duration - 0
+[Canon Makernote] Unknown tag (0xc419) - 0
+[Canon Makernote] Camera Type - 248
+[Canon Makernote] Auto Rotate - 65535
+[Canon Makernote] ND Filter - 65535
+[Canon Makernote] Self Timer 2 - 65535
+[Canon Makernote] Unknown tag (0xc41e) - 65535
+[Canon Makernote] Unknown tag (0xc41f) - 0
+[Canon Makernote] Unknown tag (0xc420) - 0
+[Canon Makernote] Flash Output - 0
+[Canon Makernote] Image Type - Canon EOS REBEL T2i
+[Canon Makernote] Firmware Version - Firmware Version 1.0.6
+[Canon Makernote] Owner Name - 
+[Canon Makernote] Camera Serial Number - 00EE00166
+[Canon Makernote] Camera Info Array - [1536 bytes]
+[Canon Makernote] Canon Model ID - -2147483024
+[Canon Makernote] Thumbnail Image Valid Area - 0 159 7 112
+[Canon Makernote] Serial Number Format - -1610612736
+[Canon Makernote] Unknown tag (0x0019) - 1
+[Canon Makernote] AF Info Array 2 - 96 4 9 9 5184 3456 5184 3456 129 129 129 181 222 181 129 129 129 172 172 172 117 221 117 172 172 172 64173 64717 64717 0 0 0 819 819 1363 0 387 65149 729 0 64807 387 65149 0 192 511 0 65535
+[Canon Makernote] Original Decision Data Offset - 0
+[Canon Makernote] File Info Array - 52 0 0 0 0 0 0 0 0 0 0 0 0 0 65535 65535 129 0 0 0 113 76 0 0 0 0
+[Canon Makernote] Lens Model - EF-S18-55mm f/3.5-5.6 IS
+[Canon Makernote] Serial Info Array - VA0085654
+[Canon Makernote] Dust Removal Data - [1024 bytes]
+[Canon Makernote] Crop Info - 0 0 0 0
+[Canon Makernote] Custom Functions Array 2 - 200 4 1 44 3 257 1 0 259 1 0 271 1 0 2 44 3 513 1 0 514 1 0 515 1 0 3 32 2 1294 1 0 1551 1 0 4 56 4 1793 1 0 1796 1 0 2065 1 0 2063 1 0
+[Canon Makernote] Processing Information Array - 28 0 3 0 0 0 0 0 65535 5200 129 0 0 0
+[Canon Makernote] Measured Color Array - 12 563 1024 1024 588 0
+[Canon Makernote] Color Space - 1
+[Canon Makernote] VRD Offset - 0
+[Canon Makernote] Sensor Information Array - 34 5344 3516 1 1 152 56 5335 3511 0 0 0 0 0 0 0 0
+[Canon Makernote] Color Data Array 1 - 7 754 1024 1024 384 541 1024 1024 518 374 1024 1024 739 863 1162 1158 435 1087 2043 2044 1031 473 1279 1279 917 1 0 255 258 253 0 1897 4297 4299 2687 990 307 301 46 121 944 947 1681 2212 3875 3891 713 1851 4123 4109 2579 973 306 302 45 120 905 908 1629 2162 3718 3734 677 2325 1024 1024 1398 6207 2325 1024 1024 1398 6207 2248 1023 1024 1366 6207 0 0 0 0 0 2189 1024 1024 1574 5200 2515 1024 1024 1341 7000 2356 1024 1024 1448 6000 1560 1024 1024 2372 3200 1953 1024 1024 2217 3763 2189 1024 1024 1574 5212 2422 1024 1024 1436 6226 2189 1024 1024 1574 5212 2189 1024 1024 1574 5212 2189 1024 1024 1574 5212 2189 1024 1024 1574 5212 2189 1024 1024 1574 5212 984 1024 1024 1038 3891 984 1024 1024 1038 3891 984 1024 1024 1038 3891 984 1024 1024 1038 3891 984 1024 1024 1038 3891 65196 367 918 10900 65220 377 887 10000 65263 395 833 8300 65306 417 782 7000 65359 445 724 6000 65386 461 696 5600 65417 479 666 5200 65464 505 616 4700 65520 541 566 4200 41 584 522 3800 91 623 483 3500 149 672 442 3200 198 714 408 3000 241 763 387 2800 353 896 332 2400 500 2064 2081 2048 2048 2048 2048 12 14 14 18 30 35 40 44 40 46 40 39 36 41 46 54 82 92 82 64 50 42 40 42 36 40 35 39 40 50 59 53 90 83 74 41 36 29 32 33 31 34 26 28 29 36 65 0 57 56 59 41 31 27 28 32 30 52 32 29 27 29 34 40 29 31 32 37 53 61 70 75 67 73 62 57 52 58 61 61 202 224 192 140 98 81 74 77 65 68 57 59 60 74 81 65 224 203 174 92 75 58 63 63 59 61 46 48 49 60 91 0 143 138 142 94 70 58 58 66 64 121 69 59 50 51 55 62 29 31 31 37 55 62 71 75 67 73 62 57 51 57 60 61 203 224 192 140 98 82 74 77 65 67 56 59 59 72 79 62 226 203 175 92 74 58 63 63 59 60 45 45 45 56 89 0 147 142 147 95 69 57 58 65 61 107 63 54 48 50 53 52 26 27 27 29 38 42 47 49 42 44 35 31 27 29 29 25 172 187 155 106 66 53 47 48 39 39 31 31 30 36 37 26 189 167 139 66 48 36 38 38 34 33 24 24 24 28 38 0 118 109 105 64 44 35 35 38 35 63 34 26 21 20 20 23 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 41 52 112 282 51 168 588 835 6058 2016 3426 2361 792 534 762 3 3291 9535 17441 16665 1259 1891 3734 3311 12441 1777 2704 1507 507 284 977 12 1669 2569 2597 3533 354 773 1088 812 1746 88 50 26 8 12 35 0 553 684 1089 9873 1683 1651 1516 806 1339 118 256 199 104 88 246 6 127 201 0 32768 0 1024 1024 1024 2785 3961 7000 4265 146 65506 4018 3933 65393 29 4175 0 256 1 4953 1 59586 1 62781 1 6838 1024 1024 0 1024 0 0 0 0 0 8191 256 8191 256 0 0 512 666 443 473 670 391 827 0 0 0 0 0 42 85 127 170 212 255 0 45 89 131 172 213 255 1 0 103 0 0 16 32 64 96 128 192 0 0 0 65495 0 0 0 1013 1013 1013 1039 1000 1000 1000 1160 1 2047 2047 2048 2048 0 11222 10000 4096 0 0 1900 2014 3784 3912 1900 2014 3360 3488 1900 2014 3568 3696 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 120 126 158 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 65535 0 32 64 128 224 256 256 0 34 68 132 224 256 256 25 25 35 1 1 223 223 7 17 88 168 186 203 206 235 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 75 134 169 198 205 234 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0
+[Canon Makernote] Unknown tag (0x4008) - 129 129 129
+[Canon Makernote] Unknown tag (0x4009) - 0 0 0
+[Canon Makernote] Custom Picture Style File Name - 
+[Canon Makernote] Unknown tag (0x4011) - [252 bytes]
+[Canon Makernote] Unknown tag (0x4012) - 
+[Canon Makernote] Vignetting Correction Array 1 - [116 bytes]
+[Canon Makernote] Vignetting Correction Array 2 - 24 0 1 0 1 1
+[Canon Makernote] Unknown tag (0x4017) - 262662 1409286145
+[Canon Makernote] Lighting Optimizer Array - 12 0 0
+[Canon Makernote] Lens Info Array - [30 bytes]
+[Interoperability] Interoperability Index - Recommended Exif Interoperability Rules (ExifR98)
+[Interoperability] Interoperability Version - 1.00
+[GPS] GPS Version ID - 2.200
+[GPS] GPS Latitude Ref - N
+[GPS] GPS Latitude - 34°1'16.039124"
+[GPS] GPS Longitude Ref - W
+[GPS] GPS Longitude - 118°23'47.28882"
+[GPS] GPS Altitude Ref - Sea level
+[Exif Thumbnail] Thumbnail Compression - JPEG (old-style)
+[Exif Thumbnail] X Resolution - 72 dots per inch
+[Exif Thumbnail] Y Resolution - 72 dots per inch
+[Exif Thumbnail] Resolution Unit - Inch
+[Exif Thumbnail] Thumbnail Offset - 8272 bytes
+[Exif Thumbnail] Thumbnail Length - 5843 bytes
+[Photoshop] IPTC-NAA record - 22 bytes binary data
+[Photoshop] Caption digest - [16 bytes]
+[Iptc] Enveloped Record Version -  
+[Iptc] Coded Character Set - %G
+[Iptc] Application Record Version - 4
